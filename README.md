@@ -1,0 +1,1 @@
+# Monitoring-and-Prediction-of-Drought-Using-Remote-Sensing-Indices-1-
