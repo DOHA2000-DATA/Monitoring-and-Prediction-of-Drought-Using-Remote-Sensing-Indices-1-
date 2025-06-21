@@ -76,12 +76,19 @@ The system is designed to evaluate the spatial and temporal patterns of drought 
 📂 Project Structure
 
 📁 drought-monitoring-tigrigra/
+
 ├── 📁 data/                     # Preprocessed and raw remote sensing data
+
 ├── 📁 scripts/                  # Python scripts and Jupyter notebooks
+
 ├── 📁 models/                   # Trained AI models and evaluation metrics
+
 ├── 📁 maps/                     # Output maps and visualizations
+
 ├── 📁 docs/                     # Documentation and reports
+
 ├── README.md                   # Project description
+
 └── requirements.txt            # Python dependencies
 
 🚀 Getting Started
